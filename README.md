@@ -2,7 +2,7 @@
 This project creates different pacmen around the window and when you click the *Start Game* button they start moving randomly and bouncing on the borders
 
 ### How to use
-Simply open de *index.html* file, click the *Add PacMan* button the amount you want and then click *Start Game*
+Simply open the *index.html* file, click the *Add PacMan* button the amount you want and then click *Start Game*
 
 ### Roadmap
 - Implement a map
